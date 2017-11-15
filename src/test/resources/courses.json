@@ -1,0 +1,12 @@
+[
+  {
+    "courseId": 101,
+    "courseName": "Math",
+    "courseDescription": "Basic Mathematics"
+  },
+  {
+    "courseId": 205,
+    "courseName": "Physis",
+    "courseDescription": "Material Science"
+  }
+]
